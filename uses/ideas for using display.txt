@@ -1,0 +1,22 @@
+one more, using your pir as a trigger it would randomly display a quote from a list in the sketch each time.﻿
+Reply     
+ Ralph S Bacon 
+Ralph S Bacon3 hours ago (edited)
+Note enough value that one. I did once design a web system that displayed a deep, meaningful quote of the day, quite unobtrusively at the top of the page. Went down a storm! But guess who had to type in all those quotes (Benny was not with us at that time, so yes, muggins here!). OK, enough suggestions now Paul, but I appreciate your enthusiasm and contributions! Let's wait and see what I come up with...﻿
+=======================================
+Another one, connect the display to the internet so that it could receive 'quotes of the day' and display them.﻿
+
+One thing I have already tested is connecting to Google and getting my YouTube subscription and views count! Now that works (which is not something I'd want showing that often) I wonder what other APIs Google exposes for users... Perhaps I had better Google the Google APIs.﻿
+=======================================
+Here's another one for you, hook up a Real Time Clock, then on specific days it would display messages, such as Happy New Year, happy easter, Happy Birthday Benny!  or Happy Birthday Ralph!﻿
+
+Too much coding / maintaining a database that one, Paul. Yes, it could be done but someone (me) would have to input all the birthdays and special events. Better to read it off the Google Calendar if that is possible.﻿
+R=======================================
+you could hook up an RFID tag reader so that when you use different fob tags it will change the messages to a predefined one. Something like "Happy Birthday", "Merry Christmas" etc.﻿
+\
+It never ceases to amaze me. Paul, how you guys have all these amazing idea floating around. Lateral thinking is obviously required these days. I shall get Benny to think long and hard about what he intends to do... :)﻿
+=======================================
+You could also use a GSM or Bluetooth  module to control the text content.﻿
+
+Yes, I could do that. I'm not quite sure what I'm going to do at this minute but I will definitely show you all what I eventually come up with, that's for sure! It will probably evolve over several months too.﻿
+Reply   
