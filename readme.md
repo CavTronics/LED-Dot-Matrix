@@ -1,3 +1,4 @@
+[![cavtronics logo](https://cldup.com/BhJv2ZU0rj.jpg)](http://www.cavtronics.com "cavtronics")
 
 # The LED Dot Matrix display
 
@@ -37,6 +38,8 @@
 
 [nxp datasheet and Overview](http://www.nxp.com/products/interfaces/ic-bus-portfolio/ic-general-purpose-i-o/remote-8-bit-i-o-expander-for-icbus-with-interrupt:PCF8574T?fpsp=1&tab=Overview )
 
+## You Tube
+[Dot matrix Demo type 8x8 red](https://youtu.be/1OdQt88ySwY)
 
 # Fault Finding
 
@@ -45,6 +48,13 @@
 # Using Adafruit Libraries
 
 # Using your settings
+
+
+#p.s:
+I **LOVE** coffee! Buy me a coffee at:   
+
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=ZHBUNDXJXVW4U)
+
 
 
  
