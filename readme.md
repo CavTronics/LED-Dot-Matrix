@@ -4,7 +4,13 @@
 
 ## 
 
-## Diode identification
+## Light Emitting Diode (LED) identification
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/LED%2C_5mm%2C_green_%28en%29.svg/450px-LED%2C_5mm%2C_green_%28en%29.svg.png" alt="Drawing" style="width: 300px;"/>
+
+Parts of a conventional LED. The flat bottom surfaces of the anvil and post embedded inside the epoxy act as anchors, to prevent the conductors from being forcefully pulled out via mechanical strain or vibration.
+
+
 ## Datasheets
 ## Identifying pin 1 on Matrix
 
