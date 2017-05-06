@@ -12,6 +12,8 @@ Parts of a conventional LED. The flat bottom surfaces of the anvil and post embe
 
 
 ## Datasheets
+
+
 ## Identifying pin 1 on Matrix
 
 ## Libraries
@@ -25,6 +27,29 @@ Parts of a conventional LED. The flat bottom surfaces of the anvil and post embe
 ### LED Dot Matrix 5x7
 ### LED Dot Matrix 8x8
 ### LED Dot Matrix 16x32
+### LED Dot Matrix 8x32
+
+#### Modifications  
+There is a model that is a 4 in 1 that requires changes to the header file for it to operate correctly.
+ 
+make changes to the file "MD_MAX72xx.h" located in "[username]/Arduino/libraries/MD_MAX72XX/src" to the following:
+
+	#define	USE_PAROLA_HW	0
+
+	#define	USE_FC16_HW	1
+	
+
+Ensure the pins from the 4 in 1 module is connected to the following pins on Arduino and adjust the parameter MAX_DEVICES to 4.
+
+	// Define the number of devices we have in the chain and the hardware interface
+	// NOTE: These pin numbers will probably not work with your hardware and may
+	// need to be adapted
+	#define MAX_DEVICES 4
+	// Standard SPI connection
+	#define CLK_PIN   13 // CLK
+	#define DATA_PIN  11 // DIN	
+	#define CS_PIN    10 // CS
+
 ### LED Array
 ### LED Cube
 
