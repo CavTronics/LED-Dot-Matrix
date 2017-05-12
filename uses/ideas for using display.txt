@@ -21,3 +21,35 @@ You could also use a GSM module to control the text content.﻿
 use a Bluetooth module
 =======================================
 Use a Bluetooth  module to control the text content.﻿
+Have a GPIO pin to toggle common messages; "Happy Birthday", "Happy New Year", "merry Christmas", "Happy Chinese New Year", "Happy Easter", "Lest We Forget", "Happy Mother's Day", "Happy Father's Day" etc
+Have a GPIO pin to toggle Demo mode.
+
+Use an audio trigger 
+=======================================
+when a specific sound is heard, trigger an event message 
+such as "Happy New Year" to play appropiate music
+
+Use an music module 
+=======================================
+Play music from external music player and display corresponding message.
+
+Use an voice command 
+=======================================
+interface with google ok or other voice command interface
+
+Use an speech  
+=======================================
+Have a GPIO pin to toggle a speech clip module.
+
+Have a remote update  
+=======================================
+Allow for remote update of software.
+
+Use for voltmeter / Ammeter 
+=======================================
+display volts/ current coming from an ADC input
+
+Have a remote update  
+=======================================
+
+

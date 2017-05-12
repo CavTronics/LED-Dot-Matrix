@@ -80,7 +80,11 @@ Ensure the pins from the 4 in 1 module is connected to the following pins on Ard
 
 # Circuit Diagram
 
-# Using Adafruit Libraries
+# Using Libraries
+
+
+
+[MajicDesigns MD_MAX72XX](https://github.com/MajicDesigns/MD_MAX72XX)
 
 # Using your settings
 
