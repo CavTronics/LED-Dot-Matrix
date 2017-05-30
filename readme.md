@@ -1,8 +1,9 @@
 [![cavtronics logo](https://cldup.com/BhJv2ZU0rj.jpg)](http://www.cavtronics.com "cavtronics")
 
-# The LED Dot Matrix display
+# The Light Emitting Diode (LED) Dot Matrix display
 
-## 
+## Introduction
+These files contained in this repository are from various sources that describe Light Emitting Diode (LED) in matrix forms that are used with Arduino devices that can be adapted for use with other MicroController Units (MCU).
 
 ## Light Emitting Diode (LED) identification
 
@@ -10,11 +11,13 @@
 
 Parts of a conventional LED. The flat bottom surfaces of the anvil and post embedded inside the epoxy act as anchors, to prevent the conductors from being forcefully pulled out via mechanical strain or vibration.
 
+## Identifying pin 1 on a LED Dot Matrix display
+Looking at one edge of the display on the side there is a half moon shape protruding down then looking from above pin 1 is on the left of the edge.
 
 ## Datasheets
 
 
-## Identifying pin 1 on Matrix
+
 
 ## Libraries
 
@@ -29,10 +32,12 @@ Parts of a conventional LED. The flat bottom surfaces of the anvil and post embe
 ### LED Dot Matrix 16x32
 ### LED Dot Matrix 8x32
 
-#### Modifications  
-There is a model that is a 4 in 1 that requires changes to the header file for it to operate correctly.
+#### Modifications 
+For the MD_MAX72XX library
  
-make changes to the file "MD_MAX72xx.h" located in "[username]/Arduino/libraries/MD_MAX72XX/src" to the following:
+There is a model that is a 4 in 1 that requires changes to the header file in the MD_MAX72XX source files for it to operate correctly.
+ 
+Make changes to the file "MD_MAX72xx.h" located in "[username]/Arduino/libraries/MD_MAX72XX/src" to the following:
 
 	#define	USE_PAROLA_HW	0
 
@@ -82,11 +87,10 @@ Ensure the pins from the 4 in 1 module is connected to the following pins on Ard
 
 # Using Libraries
 
-
-
 [MajicDesigns MD_MAX72XX](https://github.com/MajicDesigns/MD_MAX72XX)
 
 # Using your settings
+
 
 
 #p.s:
