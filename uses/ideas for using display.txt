@@ -16,12 +16,12 @@ You could hook up an RFID tag reader so that when you use different fob tags it 
 
 Use a GSM module
 =======================================
-You could also use a GSM module to control the text content.﻿
+You could also use a GSM module to control the text content.﻿ using a phone to send text to display.
 
 use a Bluetooth module
 =======================================
 Use a Bluetooth  module to control the text content.﻿
-Have a GPIO pin to toggle common messages; "Happy Birthday", "Happy New Year", "merry Christmas", "Happy Chinese New Year", "Happy Easter", "Lest We Forget", "Happy Mother's Day", "Happy Father's Day" etc
+Have a GPIO pin to toggle common messages; "Happy Birthday", "Happy New Year", "Merry Christmas", "Happy Chinese New Year", "Happy Easter", "Lest We Forget", "Happy Mother's Day", "Happy Father's Day" etc
 Have a GPIO pin to toggle Demo mode.
 
 Use an audio trigger 
@@ -29,15 +29,15 @@ Use an audio trigger
 when a specific sound is heard, trigger an event message 
 such as "Happy New Year" to play appropiate music
 
-Use an music module 
+Use a music module 
 =======================================
 Play music from external music player and display corresponding message.
 
-Use an voice command 
+Use a voice command 
 =======================================
 interface with google ok or other voice command interface
 
-Use an speech  
+Use a speech  
 =======================================
 Have a GPIO pin to toggle a speech clip module.
 
@@ -49,7 +49,13 @@ Use for voltmeter / Ammeter
 =======================================
 display volts/ current coming from an ADC input
 
-Have a remote update  
+Display snail mail delivery 
 =======================================
+when triggered displays a message stating "snail mail delivered"
+
+Display doorbell
+=======================================
+when triggered displays a message stating "Who's at the door"
+
 
 
